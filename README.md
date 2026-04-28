@@ -1,1 +1,4 @@
-“### Local Snacks” 
+## Local Snacks
+- Takoyaki
+- Taiyaki
+- Onigiri
